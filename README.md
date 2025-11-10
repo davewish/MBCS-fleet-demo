@@ -1,10 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # MBCS-fleet-demo
 =======
 # React + TypeScript + Vite
+=======
+# MBCS Fleet Demo
+>>>>>>> 912d9c2 (update readme file)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A real-time dashboard simulating Mercedes-Benz Connectivity Services fleet telemetry.
+- Built with React + TypeScript
+- Mock real-time updates (replace with WebSocket/Kafka in prod)
+- Prepared overnight for interview – shows agile learning!
 
+<<<<<<< HEAD
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
@@ -75,3 +83,6 @@ export default defineConfig([
 ])
 ```
 >>>>>>> 446a057 (MBCS fleet demo : real time React + TS dashboard for vehicle Telemery)
+=======
+Run: `npm install && npm run dev`
+>>>>>>> 912d9c2 (update readme file)
